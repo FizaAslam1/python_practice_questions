@@ -1,8 +1,8 @@
 # Python Practice Questions
 
-This repository contains 20+ Python practice questions with solutions.  
+This repository contains Python practice questions with solutions.  
 It is part of my journey as a data science learner. 🧠💻
- also practice question for if else,tuple,set ,dictionaries
+ also practice question for if else,tuple,set ,dictionaries,functions,file handling,file i/o,oop
 ## 🛠 Tools Used
 - Python
 - Google Colab
@@ -15,7 +15,7 @@ It is part of my journey as a data science learner. 🧠💻
 - Functions
 - Lists & Dictionaries
 - FILE I/O
-
+-OOP
 ---
 
 💡 *More projects coming soon!*  
