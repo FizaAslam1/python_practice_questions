@@ -14,6 +14,7 @@ It is part of my journey as a data science learner. 🧠💻
 - Loops
 - Functions
 - Lists & Dictionaries
+- FILE I/O
 
 ---
 
