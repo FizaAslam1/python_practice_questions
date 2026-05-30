@@ -17,6 +17,3 @@ It is part of my journey as a data science learner. 🧠💻
 - FILE I/O
 -OOP
 ---
-
-💡 *More projects coming soon!*  
-Follow me to stay updated. 🚀
